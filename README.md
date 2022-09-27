@@ -1,2 +1,6 @@
-# pAssessor
-Assessing the Quality of Place Types for Better Aedes Mosquito Control Management
+# tanrabad_quality
+
+Install packages with pip: -r requirements.txt
+```
+$ pip install -r requirements.txt
+```
